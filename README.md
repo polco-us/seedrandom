@@ -1,3 +1,5 @@
+| Forked version without eval()
+
 seedrandom.js
 =============
 [![Build Status](https://travis-ci.org/davidbau/seedrandom.svg?branch=master)](https://travis-ci.org/davidbau/seedrandom)
